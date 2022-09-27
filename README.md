@@ -15,10 +15,18 @@ dynamic version:
   <li><a href='https://priorities-measure.netlify.app/'>Eisenhower matrix</a> - A PERN full-stack app.</li>
 </ul>
 
+<h2>Projects coming soon:</h2>
+<ul> 
+  <li>🦆 Bird sighting tracker</li>
+  <li>🧮 Calculator app</li>
+  <li>🚗 Road trip planner</li>
+</ul>
+
 <h2>Find me on the internet:</h2>
 <ul>
   <li><a href='https://niamh-brockbank.netlify.app'>Portfolio</a></li>
   <li><a href='https://www.linkedin.com/in/niamh-brockbank/'>LinkedIn</a></li>
+  <li>🎨 <a href='https://openprocessing.org/user/334108/?view=activity&o=14'>OpenProcessing</a></li>
 </ul>
 
 <!---
