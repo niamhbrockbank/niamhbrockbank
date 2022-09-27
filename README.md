@@ -3,7 +3,11 @@ I'm a structural engineer turned software engineer.
 <br>I am currently an <a href='https://academy.tech/'>Academy</a> software engineering scholar.
 
 <h2>Technologies and Tools</h2>
+<!---
+dynamic version:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niamhbrockbank&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+--->
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=niamhbrockbank&show_icons=true&locale=en&layout=compact" alt="niamhbrockbank" /></p>
 
 <h2>I'm currently working on:</h2>
 <ul>
