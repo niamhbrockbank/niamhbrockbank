@@ -1,6 +1,6 @@
 <h3>Hi there, I'm Niamh 👋</h3>
 I'm a structural engineer turned software engineer. 
-<br>I am currently an <a href='https://academy.tech/'>Academy</a> software engineering scholar.
+<br>I am currently a software engineering scholar at <a href='https://academy.tech/'>Academy</a>.
 
 <h2>Technologies and Tools</h2>
 <!---
