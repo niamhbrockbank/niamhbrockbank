@@ -13,6 +13,7 @@ dynamic version:
 <ul>
   <li><a href='https://niamh-brockbank.netlify.app'/>Personal portfolio site</a> - A React app written in TypeScript.</li>
   <li><a href='https://priorities-measure.netlify.app/'>Eisenhower matrix</a> - A PERN full-stack app.</li>
+  <li><a href='https://sunrise-sunset-nb.netlify.app/'>Sunrise timer</a> - A React app written in TypeScript.</li>
 </ul>
 
 <h2>Projects coming soon:</h2>
