@@ -11,10 +11,16 @@ dynamic version:
 
 <h2>I'm currently working on:</h2>
 <ul>
-  <li><a href='https://niamh-brockbank.netlify.app'/>Personal portfolio site</a> - A React app written in TypeScript.</li>
   <li><a href='https://priorities-measure.netlify.app/'>Eisenhower matrix</a> - A PERN full-stack app.</li>
-  <li><a href='https://sunrise-sunset-nb.netlify.app/'>Sunrise timer</a> - A React app written in TypeScript.</li>
   <li><a href='https://resource-sharer.netlify.app/'>Resource sharer</a> - A PERN full-stack app. I am focusing on interesting UI design.</li>
+  <li>Who's That - A PERN full-stack game.</li>
+</ul>
+
+<h2>I've recently worked on:</h2>
+  <li><a href='https://niamh-brockbank.netlify.app'/>Personal portfolio site</a> - A React app written in TypeScript.</li>
+  <li><a href='https://sunrise-sunset-nb.netlify.app/'>Sunrise timer</a> - A React app written in TypeScript.</li>
+<ul>
+  
 </ul>
 
 <h2>Projects coming soon:</h2>
