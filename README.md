@@ -1,32 +1,15 @@
-<h3>Hi there, I'm Niamh 👋</h3>
-I'm a full-stack engineer, specialising in JavaScript.
+## _**`hi there,`**_
+🌈 I'm a software engineer, based in London with an interest in crafting beautiful user interfaces.
 
-<h2>I'm currently working on:</h2>
+I want to build applications that improve people's lives, in the technologies that are best suited to the task. I love collaborating with a diverse group of people and opinions and thrive in environments that encourage failing fast.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niamhbrockbank&layout=compact)
+
+### connect
+I'm currently open to opportunties, if you'd like to get in touch or learn more about me:
 <ul>
-  <li><a href='https://resource-sharer.netlify.app/'>Resource sharer</a> - A PERN full-stack app. I am focusing on interesting UI design.</li>
-  <li>Who's That - A PERN full-stack game.</li>
-</ul>
-
-<h2>I've recently worked on:</h2>
-  <li><a href='https://niamh-brockbank.netlify.app'/>Personal portfolio site</a> - A React app written in TypeScript.</li>
-  <li><a href='https://sunrise-sunset-nb.netlify.app/'>Sunrise timer</a> - A React app written in TypeScript.</li>
-  <li><a href='https://priorities-measure.netlify.app/'>Eisenhower matrix</a> - A PERN full-stack app.</li>
-<ul>
-  
-</ul>
-
-<h2>Projects coming soon:</h2>
-<ul> 
-  <li>🦆 Bird sighting tracker</li>
-  <li>🧮 Calculator app</li>
-  <li>🚗 Road trip planner</li>
-</ul>
-
-<h2>Find me on the internet:</h2>
-<ul>
-  <li><a href='https://niamh-brockbank.netlify.app'>Portfolio</a></li>
-  <li><a href='https://www.linkedin.com/in/niamh-brockbank/'>LinkedIn</a></li>
-  <li>🎨 <a href='https://openprocessing.org/user/334108/?view=activity&o=14'>OpenProcessing</a></li>
+  <li>Connect with me on <a href='https://www.linkedin.com/in/niamh-brockbank/'>LinkedIn</a></li>
+  <li>Follow me on 🎨 <a href='https://openprocessing.org/user/334108/?view=activity&o=14'>OpenProcessing</a></li>
 </ul>
 
 <!---
