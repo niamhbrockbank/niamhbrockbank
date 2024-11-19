@@ -10,6 +10,7 @@ I'm currently open to opportunties, if you'd like to get in touch or learn more 
 <ul>
   <li>Connect with me on <a href='https://www.linkedin.com/in/niamh-brockbank/'>LinkedIn</a></li>
   <li>Follow me on 🎨 <a href='https://openprocessing.org/user/334108/?view=activity&o=14'>OpenProcessing</a></li>
+  <li>Check out what I'm reading on 📚 <a href="https://app.thestorygraph.com/profile/nbrockbank">The StoryGraph</a></li>
 </ul>
 
 <!---
