@@ -5,7 +5,7 @@ I want to build applications that improve people's lives, in the technologies th
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niamhbrockbank&layout=compact)
 
-### connect
+### _`connect`_
 I'm currently open to opportunties, if you'd like to get in touch or learn more about me:
 <ul>
   <li>Connect with me on <a href='https://www.linkedin.com/in/niamh-brockbank/'>LinkedIn</a></li>
