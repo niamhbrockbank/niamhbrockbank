@@ -3,8 +3,6 @@
 
 I want to build applications that improve people's lives, in the technologies that are best suited to the task. I love collaborating with a diverse group of people and opinions and thrive in environments that encourage failing fast.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niamhbrockbank&layout=compact)
-
 ### _`connect`_
 I'm currently open to opportunties, if you'd like to get in touch or learn more about me:
 <ul>
