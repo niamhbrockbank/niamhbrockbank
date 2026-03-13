@@ -4,7 +4,7 @@
 I want to build applications that improve people's lives, in the technologies that are best suited to the task. I love collaborating with a diverse group of people and opinions and thrive in environments that encourage failing fast.
 
 ### _`connect`_
-I'm currently open to opportunties, if you'd like to get in touch or learn more about me:
+If you'd like to get in touch or learn more about me:
 <ul>
   <li>Connect with me on <a href='https://www.linkedin.com/in/niamh-brockbank/'>LinkedIn</a></li>
   <li>Follow me on 🎨 <a href='https://openprocessing.org/user/334108/?view=activity&o=14'>OpenProcessing</a></li>
